@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   AI and
   Spatial Association Lab
-hero_media: welcome.jpg
+hero_media: <img src="welcome.gif">
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,5 +19,6 @@ design:
 ---
 
 <br>
-
+*Everything is Spatially Associated.*
+<br>
 The **AI and Spatial Association Lab** has a broad impact on the advances of spatial analysis and artificial intelligence.
