@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: AI and Spatial Association Lab # Website name
-baseURL: 'https://spatialassociation.org/' # Website URL
+baseURL: 'https://www.spatialassociation.org' # Website URL
 
 ############################
 ## LANGUAGE
@@ -21,8 +21,8 @@ removePathAccents: true
 
 module:
   imports:
-    - path: https://github.com/yongzesong/starter-hugo-research-group
-
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
 ## ADVANCED
