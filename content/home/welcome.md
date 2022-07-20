@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   AI and
   Spatial Association Lab
-hero_media: welcome.gif
+hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
