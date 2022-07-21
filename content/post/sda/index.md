@@ -1,6 +1,6 @@
 ---
 title: Dr Yongze Song published an article on the Second-Dimension Spatial Association.
-date: May 30, 2022
+date: "2022-05-30T00:00:00Z"
 design:
   show_social: false
 ---
