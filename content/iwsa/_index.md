@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: International Workshop on Spatial Association (IWSA)
 
 # Listing view
 view: compact

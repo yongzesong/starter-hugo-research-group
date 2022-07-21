@@ -15,15 +15,15 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 💡 International Workshop on Spatial Association (IWSA)
+      content: We invite top researchers to give talks ...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
+    - title: 👋 Welcome to the group
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
@@ -31,8 +31,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Artificial Intelligence, Innovative Geospatial Methods, Sustainable Infrastructure, Spatial Big Data, Open-Source Software, and More ...
+      content: 'Students receive professional academic training.'
       align: right
       background:
         position: center
