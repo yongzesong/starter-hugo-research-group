@@ -23,7 +23,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: welcome.jpg
-    - title: 💡 International Workshop on Spatial Association (IWSA)
+    - title: 💡 [International Workshop on Spatial Association (IWSA)](https://spatialassociation.org/iwsa/)
       content: We invite top researchers to give talks ...
       align: center
       background:
