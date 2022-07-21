@@ -9,16 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
-subtitle:
-
-- [Dr Yongze Song](https://yongzesong.com/)
+title: [Meet Dr Yongze Song](https://yongzesong.com/)
+subtitle: [Meet the Team Members](https://yongzesong.com/team/)
 
 
-- [Team Members](https://yongzesong.com/team/)
 
-
-content:
+# content:
 
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
