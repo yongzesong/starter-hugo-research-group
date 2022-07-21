@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: AI and Spatial Association Lab # Website name
-logo: 'https://github.com/yongzesong/starter-hugo-research-group/blob/30e7666e00186dc878fa928d067c4a6310273c81/assets/media/logo.jpg'
 baseURL: 'https://www.spatialassociation.org' # Website URL
 
 ############################
