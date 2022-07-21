@@ -1,6 +1,6 @@
 ---
 title: Understanding terrestrial vegetation dynamics towards a sustainable world
-subtitle: International Workshop on Spatial Association (IWSA): August 2022
+subtitle: International Workshop on Spatial Association (IWSA) 
 
 event: Click here to join the workshop
 event_url: https://au.bbcollab.com/guest/a8940da1b5df48d4a14f175cc484874c
