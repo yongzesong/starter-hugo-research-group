@@ -3,6 +3,8 @@ title: Dr Chi Chen will give a talk about terrestrial vegetation dynamics.
 date: 20 July 2022
 image:
   focal_point: 'top'
+design:
+  show_social: false
 ---
 
 Dr Chi Chen from Lawrence Berkeley National Laboratory and the University

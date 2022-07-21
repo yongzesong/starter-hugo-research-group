@@ -13,4 +13,5 @@ banner:
 design:
   view: 2
   columns: '2'
+  show_social: false
 ---

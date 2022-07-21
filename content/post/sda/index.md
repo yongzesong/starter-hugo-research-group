@@ -1,6 +1,8 @@
 ---
 title: Dr Yongze Song published an article on the Second-Dimension Spatial Association.
 date: 30 May 2022
+design:
+  show_social: false
 ---
 
 The Second-Dimension Spatial Association (SDA) examines spatial association by extracting more information about the geographical environment outside sampling locations. 
