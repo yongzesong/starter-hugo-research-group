@@ -19,8 +19,6 @@ content:
   order: asc
   page_type: post
 design:
-  view: 3
-  columns: '1'
-  spacing: 
-    padding: ["20px", "0", "20px", "0"]
+  view: 2
+  columns: '2'
 ---
