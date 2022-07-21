@@ -10,6 +10,6 @@ banner:
   image: ''
   
 design:
-  view: 3
+  view: 2
   columns: '2'
 ---

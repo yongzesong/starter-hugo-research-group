@@ -19,6 +19,6 @@ content:
   order: asc
   page_type: post
 design:
-  view: 2
+  view: 3
   columns: '2'
 ---
