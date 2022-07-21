@@ -8,7 +8,7 @@ event_url: https://au.bbcollab.com/guest/a8940da1b5df48d4a14f175cc484874c
 location: Online
 address:
 
-summary: Dr Chi Chen will give a talk about terrestrial vegetation dynamics. 
+# summary: Dr Chi Chen will give a talk about terrestrial vegetation dynamics. 
 abstract: 'Vegetation is the primary producer that sustains life on Earth and controls the exchange of heat, mass, and momentum between the land surface and the atmosphere. Dr. Chi Chen's research focuses on a combination of satellite and in situ observations, theoretical analyses, and Earth system models to illustrate the critical role of vegetation in the climate system and human society. In this presentation, Dr. Chen will share his analysis of vegetation dynamics using remote sensing data, in which he demonstrates large-scale evidence of land-use management in shaping recent global increases in leaf area. He will also share his modeling work to constrain plant photosynthesis and CO2 fertilization effect based on first-principle eco-evolutionary optimization theories.'
 
 
