@@ -12,11 +12,12 @@ main:
     weight: 20
   - name: People
     weight: 30
+    submenu:
     - name: Principle Investigator
-      url: https://yongzesong.com/about/
+      url: "https://yongzesong.com/about/"
       weight: 31
     - name: Team Members
-      url: https://yongzesong.com/team/
+      url: "https://yongzesong.com/team/"
       weight: 32
   - name: Workshop
     url: iwsa

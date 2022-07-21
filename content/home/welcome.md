@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  AI and
+  AI and 
   Spatial Association Lab
 hero_media: <img src="welcome.gif">
 design:
@@ -21,4 +21,4 @@ design:
 <br>
 *Everything is Spatially Associated.*
 <br>
-The **AI and Spatial Association Lab** has a broad impact on the advances of spatial analysis and artificial intelligence.
+<span font-size:4em;">The **AI and Spatial Association Lab** has a broad impact on the advances of spatial analysis and artificial intelligence.</span>
