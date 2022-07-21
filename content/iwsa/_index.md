@@ -4,14 +4,10 @@ title: International Workshop on Spatial Association (IWSA)
 # Listing view
 view: compact
 
-# Table of content
-output:
-  html_document:
-    toc: true
-    toc_depth: 2
-
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
+
+Our workshop brings together the art of artificial intelligence (AI), innovative geospatial big data analaysis, Earth observation, and sustainable infrastructure management, to provide a forum for Australian and international researchers and industrial partners.
