@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: yongze.song@curtin.edu.au
+  phone: (61) 08 9266 4852
   address:
     street: Kent Street
     city: Perth
@@ -51,7 +51,7 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 We are seeking highly motivated PhD students, junior researchers, visiting researchers/students, and collaborators to join us.
