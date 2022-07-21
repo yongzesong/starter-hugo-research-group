@@ -4,12 +4,13 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
+active: false
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   AI and 
   Spatial Association Lab
-hero_media: <img src="welcome.gif">
+hero_media: <img src="welcome.jpg">
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -21,4 +22,4 @@ design:
 <br>
 *Everything is Spatially Associated.*
 <br>
-<span font-size:4em;">The **AI and Spatial Association Lab** has a broad impact on the advances of spatial analysis and artificial intelligence.</span>
+The **AI and Spatial Association Lab** has a broad impact on the advances of spatial analysis and artificial intelligence.
