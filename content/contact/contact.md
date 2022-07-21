@@ -17,7 +17,13 @@ content:
 
   email: yongze.song@curtin.edu.au
   phone: (61) 08 9266 4852
-  address: Kent Street, Perth, WA 6102, Australia
+  address:
+    street: 450 Serra Mall
+    city: Stanford
+    region: CA
+    postcode: '94305'
+    country: United States
+    country_code: US
   coordinates:
     latitude: '-32.006642' , 
     longitude: '115.892710'
