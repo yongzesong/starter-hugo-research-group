@@ -11,14 +11,8 @@ main:
     url: post
     weight: 20
   - name: People
+    url: "https://yongzesong.com/about/"
     weight: 30
-    subfolderitems:
-    - name: Principle Investigator
-      url: "https://yongzesong.com/about/"
-      weight: 30
-    - name: Team Members
-      url: "https://yongzesong.com/team/"
-      weight: 30
   - name: Workshop
     url: iwsa
     weight: 40
