@@ -7,13 +7,13 @@ design:
   show_social: false
 ---
 
-Dr Chi Chen from Lawrence Berkeley National Laboratory and the University
+[Dr Chi Chen](https://sites.google.com/site/chenchichichen/home) from Lawrence Berkeley National Laboratory and the University
 of California, Berkeley, will give a talk about "Understanding terrestrial vegetation dynamics towards a sustainable world".
 
 <!--more-->
 <br>
 
-**Date:**
+**Time:**
 
 8:00 am, 14 August 2022, Sunday (Perth/AWST)
 
