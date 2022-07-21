@@ -15,11 +15,11 @@ subtitle:
 
 content:
 
-Dr Yongze Song
-link: https://yongzesong.com/
+- [Dr Yongze Song](https://yongzesong.com/)
 
-Team Members
-link: https://yongzesong.com/team/
+
+- [Team Members](https://yongzesong.com/team/)
+
 
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
