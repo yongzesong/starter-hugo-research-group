@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: 'assets/media/logo.jpg' Latest News
+title: Latest News
 subtitle: 
 
 content:
