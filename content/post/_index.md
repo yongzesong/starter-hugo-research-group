@@ -9,6 +9,7 @@ banner:
   caption: ''
   image: ''
   
-content:
-  order:desc
+design:
+  view: 3
+  columns: '2'
 ---
