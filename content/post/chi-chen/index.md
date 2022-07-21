@@ -1,6 +1,6 @@
 ---
 title: Dr Chi Chen will give a talk about terrestrial vegetation dynamics.
-date: 14 August 2022
+date: 20 July 2022
 image:
   focal_point: 'top'
 ---
@@ -11,13 +11,13 @@ of California, Berkeley, will give a talk about "Understanding terrestrial veget
 <!--more-->
 <br>
 
-**Date: **
+**Date:**
 
 8:00 am, 14 August 2022, Sunday (Perth/AWST)
 
 5:00 pm, 13 August 2022, Satuday (Berkeley/PST)
 
-**Location: **Virtual. [Click here to join the workshop](https://au.bbcollab.com/guest/a8940da1b5df48d4a14f175cc484874c).
+**Location:** Virtual. [Click here to join the workshop](https://au.bbcollab.com/guest/a8940da1b5df48d4a14f175cc484874c).
 
 Moderated by Yongze Song, Ph.D.
 
