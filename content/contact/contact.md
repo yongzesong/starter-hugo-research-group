@@ -23,7 +23,7 @@ content:
     region: WA
     postcode: '6102'
     country: Australia
-    country_code: AUS
+    country_code: AU
   coordinates:
     latitude: '-32.006642' , 
     longitude: '115.892710'
