@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: [Meet Dr Yongze Song](https://yongzesong.com/)
-subtitle: [Meet the Team Members](https://yongzesong.com/team/)
+title: Meet the Team
+subtitle: 
 
 
 
