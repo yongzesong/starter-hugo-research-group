@@ -17,7 +17,7 @@ content:
   slides:
     - title: AI and Spatial Association Lab
       content: 'Everything is Spatially Associated with Everything Else.'
-      align: left
+      align: center
       background:
         position: center
         color: '#555'
