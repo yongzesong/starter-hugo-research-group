@@ -1,8 +1,6 @@
 ---
-title: Dr Bin Chen: Leveraging geospatial data and interdisciplinary approaches in urban environmental studies.
+title: Dr Bin Chen "Leveraging geospatial data and interdisciplinary approaches in urban environmental studies".
 # date: Jul 20, 2022
-image:
-  focal_point: 'top'
 design:
   show_social: false
 ---
