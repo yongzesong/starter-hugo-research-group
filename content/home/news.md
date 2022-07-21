@@ -16,9 +16,11 @@ content:
     publication_type: ''
     tag: ''
   offset: 0
-  order: desc
+  order: asc
   page_type: post
 design:
   view: 3
   columns: '1'
+  spacing: 
+    padding: ["20px", "0", "20px", "0"]
 ---

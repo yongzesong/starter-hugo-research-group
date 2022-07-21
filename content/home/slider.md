@@ -22,7 +22,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: welcome.jpg
     - title: 💡 International Workshop on Spatial Association (IWSA)
       content: We invite top researchers to give talks ...
       align: center
@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: contact.jpg
       link:
         icon: graduation-cap
         icon_pack: fas

@@ -8,4 +8,7 @@ view: compact
 banner:
   caption: ''
   image: ''
+  
+content:
+  order:asc
 ---
