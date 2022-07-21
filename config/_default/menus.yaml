@@ -11,8 +11,13 @@ main:
     url: post
     weight: 20
   - name: People
-    url: people
     weight: 30
+    - name: Principle Investigator
+      url: https://yongzesong.com/about/
+      weight: 31
+    - name: Team Members
+      url: https://yongzesong.com/team/
+      weight: 32
   - name: Workshop
     url: iwsa
     weight: 40
