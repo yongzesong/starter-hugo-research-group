@@ -1,6 +1,6 @@
 ---
 title: Dr Chi Chen will give a talk about terrestrial vegetation dynamics.
-date: 'Aug 14, 2022'
+date: "2022-08-14T00:00:00Z"
 image:
   focal_point: 'top'
 design:

@@ -1,6 +1,6 @@
 ---
 title: Dr Bin Chen "Leveraging geospatial data and interdisciplinary approaches in urban environmental studies".
-date: 'Jul 15, 2022'
+date: "2022-07-15T00:00:00Z"
 design:
   show_social: false
 ---
