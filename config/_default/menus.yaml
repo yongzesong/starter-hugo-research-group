@@ -10,12 +10,12 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: People
-    url: "https://yongzesong.com/about/"
-    weight: 30
   - name: Workshop
     url: iwsa
     weight: 40
+  - name: People
+    url: "https://yongzesong.com/about/"
+    weight: 30
   #- name: Publications
   #  url: publication
   #  weight: 50

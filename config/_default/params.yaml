@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -52,10 +52,10 @@ footer:
 
 # Localization
 
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+#locale:
+#  date_format: 'Jan 2, 2006'
+#  time_format: '3:04 PM'
+#  address_format: en-us
 
 # Site features
 
@@ -80,7 +80,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
   search:
