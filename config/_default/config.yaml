@@ -5,6 +5,7 @@
 
 title: AI and Spatial Association Lab # Website name
 baseURL: 'https://www.spatialassociation.org' # Website URL
+logo: 'assets/media/logo.jpg'
 
 ############################
 ## LANGUAGE
