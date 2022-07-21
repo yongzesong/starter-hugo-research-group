@@ -18,12 +18,12 @@ content:
   email: test@example.org
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Kent Street
+    city: Perth
+    region: WA
+    postcode: '6101'
+    country: Australia
+    country_code: AU
   coordinates:
     latitude: '-32.0061'
     longitude: '115.8938'

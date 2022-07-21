@@ -1,6 +1,6 @@
 ---
 title: Dr Chi Chen will give a talk about terrestrial vegetation dynamics.
-date: Jul 20, 2022
+# date: Jul 20, 2022
 image:
   focal_point: 'top'
 design:
