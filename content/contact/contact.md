@@ -15,15 +15,9 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: yongze.song@curtin.edu.au
-  phone: (61) 08 9266 4852
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+#  email: 
+#  phone: 
+#  address:
   coordinates:
     latitude: '-32.006642' , 
     longitude: '115.892710'
